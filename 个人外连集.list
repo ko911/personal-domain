@@ -1,12 +1,19 @@
 # 个人外连集
+
 # 域名匹配
+# 偶像大师
 DOMAIN-SUFFIX,apis.game.starlight-stage.jp
+# 看图
 DOMAIN-SUFFIX,cosplaytele.com
+# 秀人
 DOMAIN-SUFFIX,hotgirl.biz
 DOMAIN-SUFFIX,xiuren.biz
+# 机场
 DOMAIN-SUFFIX,xn--4gq62f52gdss.com
 DOMAIN-SUFFIX,xn--4gqx1hgtfdmt.com
+# 图下载
 DOMAIN-SUFFIX,niceff.com
 DOMAIN-SUFFIX,nicesss.com
 DOMAIN-SUFFIX,girlygirlpic.com 
 DOMAIN-SUFFIX,misskon.com
+
