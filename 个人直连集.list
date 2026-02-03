@@ -1,10 +1,19 @@
 # 个人直连集
+
 # 关键词匹配
 DOMAIN-KEYWORD,csg
+
 # 域名匹配
+
+# 数字基建
 DOMAIN-SUFFIX,jjww.gmp.csg.cn
+# 百度签到
 DOMAIN-SUFFIX,sofire.baidu.com
+# 谷歌直连
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
+# Mediafire网盘
 DOMAIN-SUFFIX,mediafire.com
+# 游戏
 DOMAIN-SUFFIX,gamer520.com
+
