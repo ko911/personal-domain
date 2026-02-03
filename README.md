@@ -1,1 +1,1 @@
-# ublock-origin-rule-list
+# 个人直连规则集
