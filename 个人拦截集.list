@@ -2,6 +2,8 @@
 # 关键字匹配
 DOMAIN-KEYWORD,lpiki
 DOMAIN-KEYWORD,hpeotxtt
+DOMAIN-KEYWORD,juqzuljruojt
+DOMAIN-KEYWORD,throneofdesire
 # 域名匹配
 # 微信广告
 DOMAIN-SUFFIX,badjs.weixinbridge.com
@@ -13,6 +15,7 @@ DOMAIN-SUFFIX,t.b.lpiki.cn
 DOMAIN-SUFFIX,addirmits-conalty.com
 # 黄色广告IP匹配
 IP-CIDR,154.215.111.226/32,no-resolve
+
 
 
 
