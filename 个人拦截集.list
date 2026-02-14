@@ -1,6 +1,7 @@
 # 个人拦截集
 # 关键字匹配
 DOMAIN-KEYWORD,lpiki
+DOMAIN-KEYWORD,hpeotxtt
 # 域名匹配
 # 微信广告
 DOMAIN-SUFFIX,badjs.weixinbridge.com
