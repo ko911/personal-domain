@@ -1,10 +1,9 @@
 # 个人拦截集
-
+# 关键字匹配
+DOMAIN-KEYWORD,lpiki
 # 域名匹配
-
 # 微信广告
 DOMAIN-SUFFIX,badjs.weixinbridge.com
-
 # 黄色广告
 DOMAIN-SUFFIX,ttbb03.com
 DOMAIN-SUFFIX,ddp14.com
@@ -12,5 +11,6 @@ DOMAIN-SUFFIX,ddp08.com
 DOMAIN-SUFFIX,t.b.lpiki.cn
 # 黄色广告IP匹配
 IP-CIDR,154.215.111.226/32,no-resolve
+
 
 
