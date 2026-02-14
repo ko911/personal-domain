@@ -9,8 +9,10 @@ DOMAIN-SUFFIX,ttbb03.com
 DOMAIN-SUFFIX,ddp14.com
 DOMAIN-SUFFIX,ddp08.com
 DOMAIN-SUFFIX,t.b.lpiki.cn
+DOMAIN-SUFFIX,addirmits-conalty.com
 # 黄色广告IP匹配
 IP-CIDR,154.215.111.226/32,no-resolve
+
 
 
 
