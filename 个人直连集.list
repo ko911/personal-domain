@@ -13,7 +13,6 @@ DOMAIN-SUFFIX,static.tieba.baidu.com
 # 谷歌直连
 DOMAIN-SUFFIX,googleapis.cn
 DOMAIN-SUFFIX,xn--ngstr-lra8j.com
-# Mediafire网盘
-DOMAIN-SUFFIX,mediafire.com
 # 游戏
 DOMAIN-SUFFIX,gamer520.com
+
