@@ -20,6 +20,7 @@ DOMAIN-SUFFIX,ddp08.com
 DOMAIN-SUFFIX,t.b.lpiki.cn
 DOMAIN-SUFFIX,addirmits-conalty.com
 DOMAIN-SUFFIX,2.mis3671.cc
+DOMAIN-SUFFIX,e0ik.yinghua
 # 黄色广告IP匹配
 IP-CIDR,154.215.111.226/32,no-resolve
 # IDM更新屏蔽
