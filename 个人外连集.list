@@ -24,6 +24,8 @@ DOMAIN-SUFFIX,xtvtv.com
 DOMAIN-SUFFIX,mediafire.com
 # App 下载
 DOMAIN-SUFFIX,mi9.com
+# 游戏下载
+DOMAIN-SUFFIX,ziperto.com
 
 
 DOMAIN-SUFFIX,bbs.viva-la-vita.org
