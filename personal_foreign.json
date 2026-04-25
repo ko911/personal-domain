@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "apis.game.starlight-stage.jp",
+        "cosplaytele.com",
+        "girlygirlpic.com",
+        "konachan.com",
+        "hotgirl.biz",
+        "xiuren.biz",
+        "xn--4gq62f52gdss.com",
+        "xn--4gqx1hgtfdmt.com",
+		"niceff.com",
+		"nicesss.com",
+		"misskon.com",
+		"nicewww.com",
+		"xtvtv.com",
+		"mediafire.com",
+		"mi9.com",
+		"ziperto.com",
+		"qichiyu.com",
+		"bbs.viva-la-vita.org"
+      ]
+    }
+  ]
+}
