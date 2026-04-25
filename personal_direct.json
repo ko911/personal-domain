@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "jjww.gmp.csg.cn",
+        "sofire.baidu.com",
+        "static.tieba.baidu.com",
+        "googleapis.cn",
+        "xn--ngstr-lra8j.com",
+        "gamer520.com",
+        "ntdmw02.cc"
+      ]
+    }
+  ]
+}
