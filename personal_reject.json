@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "rules": [
+    {
+      "domain_suffix": [
+        "weixinbridge.com",
+        "tonec.com",
+        "registeridm.com",
+        "secure.registeridm.com",
+        "internetdownloadmanager.com",
+        "secure.internetdownloadmanager.com",
+        "mirror.internetdownloadmanager.com",
+        "mirror2.internetdownloadmanager.com",
+		"mirror3.internetdownloadmanager.com"
+      ]
+    }
+  ]
+}
