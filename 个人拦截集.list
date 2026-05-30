@@ -49,7 +49,8 @@ DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
 #移动省平台连接信息
-DOMAIN-SUFFIX,jtwlgl.js.chinamobile.com
+DOMAIN-SUFFIX,chinamobile.com
+DOMAIN-SUFFIX,jtwlgl.dg.chinamobile.com
 
 
 
