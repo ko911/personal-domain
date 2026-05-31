@@ -48,18 +48,6 @@ DOMAIN-SUFFIX,secure.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror2.internetdownloadmanager.com
 DOMAIN-SUFFIX,mirror3.internetdownloadmanager.com
-#移动省平台连接信息
-DOMAIN-SUFFIX,chinamobile.com
-DOMAIN-SUFFIX,jtwlgl.gd.chinamobile.com
-DOMAIN-SUFFIX,cgw.komect.com
-DOMAIN-SUFFIX,sp.aifast.komect.com
-DOMAIN-SUFFIX,apconfigbak.networkorder.komect.com
-DOMAIN-SUFFIX,rgw.komect.com
-DOMAIN-SUFFIX,iotsec.komect.com
-DOMAIN-SUFFIX,open.home.komect.com
-DOMAIN-SUFFIX,hwpf.cmdcpms.cn
-DOMAIN-SUFFIX,apconfig.networkorder.komect.com
-DOMAIN-SUFFIX,ifconfig.me
 
 
 
