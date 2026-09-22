@@ -22,7 +22,7 @@ DOMAIN-SUFFIX,nicewww.com
 # 视频
 DOMAIN-SUFFIX,xtvtv.com
 # Mediafire网盘
-DOMAIN-SUFFIX,mediafire.com
+DOMAIN-KEYWORD,mediafire
 # App 下载
 DOMAIN-SUFFIX,mi9.com
 # 游戏下载
