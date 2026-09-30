@@ -34,7 +34,7 @@ DOMAIN-SUFFIX,bbs.viva-la-vita.org
 DOMAIN-KEYWORD,beidewu
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-KEYWORD,youtube
-DOMAIN-KEYWORD,bbs
+#DOMAIN-KEYWORD,bbs
 # Litube油管
 DOMAIN-SUFFIX,yt3.ggpht.com
 DOMAIN-SUFFIX,returnyoutubedislikeapi.com
