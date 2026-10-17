@@ -30,7 +30,7 @@ DOMAIN-KEYWORD,chunai6868
 # 微信广告
 DOMAIN-SUFFIX,badjs.weixinbridge.com
 #DOMAIN-SUFFIX,wxa.wxs.qq.com
-DOMAIN-SUFFIX,wximg.wxs.qq.com
+#DOMAIN-SUFFIX,wximg.wxs.qq.com
 DOMAIN-SUFFIX,wxsmw.wxs.qq.com
 # 黄色广告
 DOMAIN-SUFFIX,ttbb03.com
