@@ -24,6 +24,7 @@ DOMAIN-SUFFIX,nicewww.com
 DOMAIN-SUFFIX,xtvtv.com
 # Mediafire网盘
 DOMAIN-KEYWORD,mediafire
+DOMAIN-SUFFIX,mediafire.com
 # App 下载
 DOMAIN-SUFFIX,mi9.com
 DOMAIN-SUFFIX,uptodown.com
