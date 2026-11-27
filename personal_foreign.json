@@ -3,14 +3,18 @@
   "rules": [
     {
       "domain_suffix": [
+		"dllkids.xyz",
+		"pages.dev",
         "apis.game.starlight-stage.jp",
         "cosplaytele.com",
         "girlygirlpic.com",
         "konachan.com",
+		"nudecosplay.biz",
         "hotgirl.biz",
         "xiuren.biz",
         "xn--4gq62f52gdss.com",
         "xn--4gqx1hgtfdmt.com",
+		"xn--9kqz23b19z.com",
 		"niceff.com",
 		"nicesss.com",
 		"misskon.com",
@@ -18,8 +22,10 @@
 		"xtvtv.com",
 		"mediafire.com",
 		"mi9.com",
+		"uptodown.com",
 		"ziperto.com",
 		"qichiyu.com",
+		"naiyous.com",
 		"bbs.viva-la-vita.org",
 		"nudecosplay.biz",
 	    "iyf.lv"
